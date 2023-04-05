@@ -1,0 +1,10 @@
+#aboutContainer {
+	overflow-y: scroll;
+	height: 100%;
+
+	color: aliceblue;
+}
+
+#aboutContainer::-webkit-scrollbar {
+	display: none;
+}
