@@ -33,7 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://127.0.0.1:4040/",
+  "proxy": "https://say-it-with-dsu.onrender.com",
   "secure": false,
   "eslintConfig": {
     "extends": [
